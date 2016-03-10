@@ -1,8 +1,8 @@
 This directory contains scripts written for solutions to Kaggle competitions.
 
 1. What's cooking
-    Files: prudential_basic.ipynb, prudential_combining_results.ipynb
-    https://www.kaggle.com/c/whats-cooking
+    1. Files: prudential_basic.ipynb, prudential_combining_results.ipynb
+    2. https://www.kaggle.com/c/whats-cooking
 2. Prudential Life Insurance
-    Files: whats_cooking_solutions.ipynb
-    https://www.kaggle.com/c/prudential-life-insurance-assessment
+    1. Files: whats_cooking_solutions.ipynb
+    2. https://www.kaggle.com/c/prudential-life-insurance-assessment
